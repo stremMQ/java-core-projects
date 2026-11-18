@@ -4,10 +4,13 @@
 
 Моя цель: Стать профессиональным Java Backend разработчиком.
 
-*   📁 **[basics](./basics)** — мое обучение Java, практики, конспекты.
-*   📁 **[leetcode](./leetcode)** — мои решения задач по алгоритмам и структурам данных на Java.
-*   📁 **[mini_projects](./mini_projects)** — небольшие приложения на Java, мини-проекты.
-*   📁 **[spring_backend](./spring_backend)** — разработка REST API, изучение фреймворка Spring.
+📁 **[basics](./basics)** — мое обучение Java, практики, конспекты.
+
+📁 **[leetcode](./leetcode)** — мои решения задач по алгоритмам и структурам данных на Java.
+
+📁 **[mini_projects](./mini_projects)** — небольшие приложения на Java, мини-проекты.
+
+📁 **[spring_backend](./spring_backend)** — разработка REST API, изучение фреймворка Spring.
 
 🛠️ Мой стек (на текущий момент):
 
