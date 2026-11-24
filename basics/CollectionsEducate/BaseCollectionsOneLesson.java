@@ -46,5 +46,21 @@ public class CollectionLesson{
         fruits6.put("Яблоко", 4);
         fruits6.putIfAbsent("Яблоко", 9);
         System.out.println(fruits6);
+
+        Map<String, Integer> fruits7 = new LinkedHashMap<>();
+        fruits7.put("Яблоко", 6);
+        fruits7.put("Ананас", 6);
+        fruits7.put("Вишня", 5);
+        fruits7.put("Яблоко", 4);
+        fruits7.putIfAbsent("Яблоко", 9);
+        System.out.println(fruits7);
+
+        Map<String, Integer> fruits8 = new TreeMap<>();
+        fruits8.put("Яблоко", 6);
+        fruits8.put("Ананас", 6);
+        fruits8.put("Вишня", 5);
+        fruits8.put("Яблоко", 4);
+        fruits8.putIfAbsent("Яблоко", 9);
+        System.out.println(fruits8);
     }
 }
